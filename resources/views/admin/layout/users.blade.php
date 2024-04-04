@@ -1,6 +1,10 @@
 @extends('admin.master')
 @section('title' , 'users')
 
+@section('js')
+
+@endsection
+
 @section('content')
-<h1>asdfrdasssssssssssssssddddddddddddddddddddddddddddddddddddddddddddddddddd</h1>
+
 @endsection
